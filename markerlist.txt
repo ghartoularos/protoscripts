@@ -1,0 +1,43 @@
+#I had separate markers targeting CD45RA and RO (different isoforms) but because these will have similar transcripts (some just missing a
+#few exons) I decided to just look for CD45 generally. Both isoforms will be found when searching the coding transcripts.
+#I have different transcripts for CD3 subunits. 
+#Changed TIM3 (CD366) to HAVCR2 because CD366 not found at the uniprot website cd list.
+#I incorporated some band-aid fixes by manually searching the UniProt website.
+CD127
+CD45
+HLA-DRA
+CD3e
+CD4
+CD194
+CD25
+CD19
+CD8a
+CD8b
+CD197
+CCR10
+CD183
+CD185
+CD196
+CD38
+CD27
+CD28
+CD95
+CD14
+CD103
+CD137
+CD69
+ICOS (CD278)
+OX40 (CD134)
+PD1 (CD279)
+CD3g
+CD3d
+HAVCR2
+CD152
+CD223
+CD39
+CD56
+CD275
+PD-L1 (CD274)
+CD11b
+CD20
+CD123
